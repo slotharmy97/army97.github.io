@@ -1,4 +1,4 @@
-# army97.github.io
+
 # Pokémon Rivalry
 
 A fresh GBA Pokémon fan project by **slotharmy97** — new story, tougher rivals, and classic vibes.
